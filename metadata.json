@@ -1,0 +1,5 @@
+{
+  "name": "Video Feedback AI",
+  "description": "Upload an MP4 video of your app or development process to receive instant, AI-powered feedback for rapid refinement and iteration.",
+  "requestFramePermissions": []
+}
